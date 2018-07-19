@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "We are the guys of The Bideo!"
+title:  "Welcome to the Bideo!"
 date:   2018-07-18 20:24:19 +0000
 categories: handsome nornsy bideo dreamsdocometrue
 ---
-Welcome to the Bideo! We are just four guys talking about videogames! We hope you enjoy!
+We are the guys of The Bideo! We are just four guys talking about videogames! We hope you enjoy!
 
 Go check us out on [Podbean][podbean]
 
