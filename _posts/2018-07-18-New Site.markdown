@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Working on the Site!"
+date:   2018-07-18 21:24:19 +0000
+categories: handsome nornsy bideo dreamsdocometrue
+---
+Hey y'all! Working on the site and testing stuff out!
+
+-Nick
